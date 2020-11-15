@@ -1,0 +1,80 @@
+<html dir="rtl">
+<head>
+<title>الصفحه الرئيسيه</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #00ffff;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #gray;
+  color: gray;
+}
+
+.topnav a.active {
+  background-color: #000000;
+  color: white;
+}
+</style>
+</head>
+<body bgcolor="ff00ff">
+
+<b><font face="Kunstler Script" size="5" color="00000"><br><marquee bgcolor="#0000FF" style="color: #FFFFFF">ذو العقل يشقى في النعيم بعقله واخو الجهاله في الشقاوة ينعم</marquee></font></b>
+<right>  <div class="topnav">
+  <a class="active" href="hadol.html"><h1>النابغة هديل انور</a></h1>
+  <a class="active" href="saura.html"><h1>صور وفديوهات الثوره</a></h1>
+  <a class="active" href="islam.html"><h1>اسلاميات</a></h1>
+ <a class="active" href="book.html"><h1>كتب وروايات</a></h1>
+</div> </right>
+
+
+
+<h1 align="center"><font color="000fff"><font size="10">بسم الله الرحمن الرحيم</h1></font>
+<br>
+<br>
+
+<h1 align="center"><font color="ff0011"><font size="30">🧕🏻🧕🏻🧕🏻النــــــقــااااااااب🧕🏻🧕🏻🧕🏻</h1></font>
+<h1 align="center">
+<img src="سميه.jpg" width=500 leight=150>
+
+<h1 align="center"><font color="000000"><font size="15">ان سمعنا أختنا شيئاً عجاب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">قالوا كلاماً لا يسر عن الحجاب*</h1>
+<h1 align="center"><font color="000000"><font size="15">قالوا خياماً علقت فوق الرقاب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">قالوا ظالماً حالكاً بين الثياب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">قالوا التأخر والتخلف في النقاب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">قالوا الرشاقة والتطور في غياب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">نادوا بتحرير الفتاة وألفوا فيه الكتاب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">رسموا طريقاً للتبرج لا يضيعه الشباب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">يا أختنا هم ساقطون إلى الحضيض إلى التراب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">يا أختنا هم سافلون بغيهم مثل الكلاب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">يا أختنا هذا عواء الحاقدين من الذئاب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">يا أختنا هذا نباح لا يؤثر في السحاب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">يا أختنا صبراً تذوب بحبره كل الصعاب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">يا أختنا فيك العزيمة والنزاهة والثواب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">
+فالنار مثوى الظالمين لهم عقاب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">
+والله يكشف ظلمهم يوم الحساب*</h1></font>
+<h1 align="center"><font color="000000"><font size="15">والجنة المؤوى ويا حسن المآب*</h1></font>
+<br>
+<br>
+
+
+</body>
+</html>
